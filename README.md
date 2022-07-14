@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saul</h1>
 <h3 align="center">A passionate about autonomous robots and computer vision</h3>
 
-- 🔭 I’m currently working on **3D reconstruction from point cloud and autonomous trajectory planning for robot manipualtors**
+- 🔭 I’m currently working on **3D reconstruction from point cloud and autonomous trajectory planning for robot manipulators**
 
 - 🌱 I’m currently learning **open3d, OpenCV, ROS, robotics**
 
